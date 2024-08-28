@@ -1,2 +1,2 @@
 # HostelManagement
-A smalldatabase project implemented in SQL for DBMS Course
+A small database project implemented in SQL for DBMS Course
